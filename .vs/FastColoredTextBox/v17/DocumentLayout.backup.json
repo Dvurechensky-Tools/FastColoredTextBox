@@ -1,0 +1,887 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\REPOSITORIES\\GITHUB\\_REPO\\FastColoredTextBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|F:\\REPOSITORIES\\GITHUB\\_REPO\\FastColoredTextBox\\README.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}",
+      "RelativeMoniker": "D:0:0:{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}|solutionrelative:README.md||{24510B54-A648-4D69-A6C5-F68CBDF07546}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\autocompletesample3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\autocompletesample2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\autocompletesample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A191EE00-9979-8237-69E2-64B474D1CD69}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\FastColoredTextBoxNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\fastcoloredtextboxnet8\\gotoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\autocompletesample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\visiblerangechangeddelayedsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\visiblerangechangeddelayedsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\tooltipsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\syntaxhighlightingbyxmldescription.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\splitsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\simplestsyntaxhighlightingsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\simplestcodefoldingsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\sandbox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\rulersample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\readonlyblockssample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\predefinedstylessample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\powerfulsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\powerfulcsharpeditor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\opentypefontsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\markertoolsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\macrossample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\loggersample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\lazyloadingsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\jokesample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\imesample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\hyperlinksample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\hintsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\gifimagedrawingsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\gifimagedrawingsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\dynamicsyntaxhighlighting.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\dynamicsyntaxhighlighting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\documentmapsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\diffmergesample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\customwordwrapsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\customtextsourcesample2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\customtextsourcesample2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\customtextsourcesample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\customstylesample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\customscrollbarssample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\customfoldingsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\consolesample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\bookmarkssample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\bilingualhighlightersample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\autoindentsample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\autoindentcharssample.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4B138A-FDDC-2680-8BC3-C0BCB7297FCA}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TesterNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\testernet8\\autocompletesample4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A191EE00-9979-8237-69E2-64B474D1CD69}|..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\FastColoredTextBoxNet8.csproj|f:\\other_my_projects\\nuget\\fastcoloredtextbox-master\\fastcoloredtextbox-master\\fastcoloredtextboxnet8\\fastcoloredtextboxnet8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FastColoredTextBox||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD14A85-CCFC-4774-BD26-0F5772512319}|FastColoredTextBox\\FastColoredTextBox.csproj|f:\\repositories\\github\\_repo\\fastcoloredtextbox\\fastcoloredtextbox\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2665,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "F:\\REPOSITORIES\\GITHUB\\_REPO\\FastColoredTextBox\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "F:\\REPOSITORIES\\GITHUB\\_REPO\\FastColoredTextBox\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-11T15:43:28.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GoToForm.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\GoToForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\GoToForm.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\GoToForm.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\GoToForm.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAjwF4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:41:53.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VisibleRangeChangedDelayedSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\VisibleRangeChangedDelayedSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\VisibleRangeChangedDelayedSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\VisibleRangeChangedDelayedSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\VisibleRangeChangedDelayedSample.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:40:46.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VisibleRangeChangedDelayedSample.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\VisibleRangeChangedDelayedSample.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\VisibleRangeChangedDelayedSample.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\VisibleRangeChangedDelayedSample.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\VisibleRangeChangedDelayedSample.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:40:45.025Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TooltipSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TooltipSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TooltipSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TooltipSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\TooltipSample.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:40:38.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SyntaxHighlightingByXmlDescription.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SyntaxHighlightingByXmlDescription.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SyntaxHighlightingByXmlDescription.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SyntaxHighlightingByXmlDescription.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SyntaxHighlightingByXmlDescription.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAE8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:40:30.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SplitSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SplitSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SplitSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SplitSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SplitSample.Designer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAALAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:40:22.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SimplestSyntaxHighlightingSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SimplestSyntaxHighlightingSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SimplestSyntaxHighlightingSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SimplestSyntaxHighlightingSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SimplestSyntaxHighlightingSample.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:40:14.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SimplestCodeFoldingSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SimplestCodeFoldingSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SimplestCodeFoldingSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SimplestCodeFoldingSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\SimplestCodeFoldingSample.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAE4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:40:06.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sandbox.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\Sandbox.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\Sandbox.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\Sandbox.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\Sandbox.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:39:43.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RulerSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\RulerSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\RulerSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\RulerSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\RulerSample.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:39:36.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReadOnlyBlocksSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\ReadOnlyBlocksSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\ReadOnlyBlocksSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\ReadOnlyBlocksSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\ReadOnlyBlocksSample.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:39:29.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PredefinedStylesSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PredefinedStylesSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PredefinedStylesSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PredefinedStylesSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PredefinedStylesSample.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:39:22.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PowerfulSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PowerfulSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PowerfulSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PowerfulSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PowerfulSample.Designer.cs",
+              "ViewState": "AgIAAMoBAAAAAAAAAAAAANsBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:39:12.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PowerfulCSharpEditor.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PowerfulCSharpEditor.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PowerfulCSharpEditor.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PowerfulCSharpEditor.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\PowerfulCSharpEditor.Designer.cs",
+              "ViewState": "AgIAAN4CAAAAAAAAAAAAAO4CAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:39:03.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OpenTypeFontSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\OpenTypeFontSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\OpenTypeFontSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\OpenTypeFontSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\OpenTypeFontSample.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAKEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:38:56.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MarkerToolSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MarkerToolSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MarkerToolSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MarkerToolSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MarkerToolSample.Designer.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:38:48.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MainForm.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MainForm.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MainForm.Designer.cs",
+              "ViewState": "AgIAAPkDAAAAAAAAAAAAAAEEAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:38:33.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MacrosSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MacrosSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MacrosSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MacrosSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\MacrosSample.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:38:26.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoggerSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\LoggerSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\LoggerSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\LoggerSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\LoggerSample.Designer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAGkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:38:18.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LazyLoadingSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\LazyLoadingSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\LazyLoadingSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\LazyLoadingSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\LazyLoadingSample.Designer.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAMMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:38:10.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JokeSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\JokeSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\JokeSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\JokeSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\JokeSample.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:38:03.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IMEsample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\IMEsample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\IMEsample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\IMEsample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\IMEsample.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:54.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HyperlinkSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\HyperlinkSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\HyperlinkSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\HyperlinkSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\HyperlinkSample.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:48.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HintSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\HintSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\HintSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\HintSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\HintSample.Designer.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAALsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:39.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GifImageDrawingSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\GifImageDrawingSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\GifImageDrawingSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\GifImageDrawingSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\GifImageDrawingSample.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:32.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GifImageDrawingSample.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\GifImageDrawingSample.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\GifImageDrawingSample.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\GifImageDrawingSample.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\GifImageDrawingSample.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:30.48Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DynamicSyntaxHighlighting.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DynamicSyntaxHighlighting.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DynamicSyntaxHighlighting.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DynamicSyntaxHighlighting.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DynamicSyntaxHighlighting.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAE0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:24.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DynamicSyntaxHighlighting.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DynamicSyntaxHighlighting.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DynamicSyntaxHighlighting.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DynamicSyntaxHighlighting.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DynamicSyntaxHighlighting.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:22.411Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DocumentMapSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DocumentMapSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DocumentMapSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DocumentMapSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DocumentMapSample.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:16.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DiffMergeSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DiffMergeSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DiffMergeSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DiffMergeSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\DiffMergeSample.Designer.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAACQBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:08.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomWordWrapSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomWordWrapSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomWordWrapSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomWordWrapSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomWordWrapSample.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:37:02.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustomTextSourceSample2.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample2.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample2.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample2.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample2.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAHYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:36:52.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CustomTextSourceSample2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample2.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:36:51.315Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CustomTextSourceSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomTextSourceSample.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:36:43.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CustomStyleSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomStyleSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomStyleSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomStyleSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomStyleSample.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:36:32.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomScrollBarsSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomScrollBarsSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomScrollBarsSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomScrollBarsSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomScrollBarsSample.Designer.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAKkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:36:19.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CustomFoldingSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomFoldingSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomFoldingSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomFoldingSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\CustomFoldingSample.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwv1IAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:36:09.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ConsoleSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\ConsoleSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\ConsoleSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\ConsoleSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\ConsoleSample.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwGkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:36:01.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BookmarksSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\BookmarksSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\BookmarksSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\BookmarksSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\BookmarksSample.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAUwIQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:35:48.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BilingualHighlighterSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\BilingualHighlighterSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\BilingualHighlighterSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\BilingualHighlighterSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\BilingualHighlighterSample.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwD0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:35:37.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AutoIndentSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutoIndentSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutoIndentSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutoIndentSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutoIndentSample.Designer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:35:30.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AutoIndentCharsSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutoIndentCharsSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutoIndentCharsSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutoIndentCharsSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutoIndentCharsSample.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:35:21.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AutocompleteSample4.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample4.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample4.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample4.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample4.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:35:14.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutocompleteSample3.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample3.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample3.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample3.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample3.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAjwGYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:35:03.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutocompleteSample2.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample2.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample2.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample2.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample2.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAjwHIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:34:39.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutocompleteSample.Designer.cs",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample.Designer.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAjwGcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:34:23.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutocompleteSample.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample.cs",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\TesterNet8\\AutocompleteSample.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T15:33:55.83Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FastColoredTextBoxNet8",
+              "DocumentMoniker": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\FastColoredTextBoxNet8.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\FastColoredTextBoxNet8.csproj",
+              "ToolTip": "F:\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\FastColoredTextBoxNet8.csproj",
+              "RelativeToolTip": "..\\..\\..\\..\\OTHER_MY_PROJECTS\\NUGET\\FastColoredTextBox-master\\FastColoredTextBox-master\\FastColoredTextBoxNet8\\FastColoredTextBoxNet8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T15:31:02.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FastColoredTextBox",
+              "DocumentMoniker": "F:\\REPOSITORIES\\GITHUB\\_REPO\\FastColoredTextBox\\FastColoredTextBox\\FastColoredTextBox.csproj",
+              "RelativeDocumentMoniker": "FastColoredTextBox\\FastColoredTextBox.csproj",
+              "ToolTip": "F:\\REPOSITORIES\\GITHUB\\_REPO\\FastColoredTextBox\\FastColoredTextBox\\FastColoredTextBox.csproj",
+              "RelativeToolTip": "FastColoredTextBox\\FastColoredTextBox.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-11T15:30:45.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1265,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

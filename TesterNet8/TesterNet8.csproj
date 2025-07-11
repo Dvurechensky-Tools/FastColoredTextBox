@@ -1,0 +1,191 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="htmlDesc.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TabStrip.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="FastColoredTextBoxNet8">
+      <HintPath>..\FastColoredTextBoxNet8\bin\Release\net8.0-windows\FastColoredTextBoxNet8.dll</HintPath>
+    </Reference>
+    <Reference Include="TabStrip">
+      <HintPath>TabStrip.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="AutocompleteSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AutocompleteSample2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AutocompleteSample3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AutocompleteSample4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AutoIndentCharsSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AutoIndentSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BilingualHighlighterSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookmarksSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsoleSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomFoldingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomHint.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomScrollBarsSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomStyleSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomTextSourceSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomTextSourceSample2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomWordWrapSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DiffMergeSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DocumentMapSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DynamicSyntaxHighlighting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GifImageDrawingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HintSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HyperlinkSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IMEsample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JokeSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LazyLoadingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoggerSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MacrosSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MarkerToolSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OpenTypeFontSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PowerfulCSharpEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PowerfulSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PredefinedStylesSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="ReadOnlyBlocksSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RulerSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sandbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SimplestCodeFoldingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SimplestSyntaxHighlightingSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplitSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SyntaxHighlightingByXmlDescription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TooltipSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VisibleRangeChangedDelayedSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="BookmarksSample.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ConsoleSample.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CustomFoldingSample.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CustomScrollBarsSample.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CustomWordWrapSample.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="IMEsample.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SyntaxHighlightingByXmlDescription.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

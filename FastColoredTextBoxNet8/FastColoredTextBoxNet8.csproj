@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="8.0.18" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="AutocompleteMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="DocumentMap.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="FastColoredTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FindForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GoToForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HotkeysEditorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReplaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ruler.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UnfocusablePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="ReplaceForm.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
