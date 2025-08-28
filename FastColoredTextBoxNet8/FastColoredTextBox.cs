@@ -1,4 +1,12 @@
-﻿//
+﻿/*
+ * Author: Nikolay Dvurechensky
+ * Site: https://sites.google.com/view/dvurechensky
+ * Gmail: dvurechenskysoft@gmail.com
+ * Last Updated: 28 августа 2025 07:08:36
+ * Version: 1.0.182
+ */
+
+//
 //  THIS CODE AND INFORMATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
 //  KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
 //  IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR
