@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 29 октября 2025 06:52:58
- * Version: 1.0.244
+ * Last Updated: 30 октября 2025 17:08:20
+ * Version: 1.0.245
  */
 
 //          Copyright Tao Klerks, 2010-2012, tao@klerks.biz         
