@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky
  * Site: https://sites.google.com/view/dvurechensky
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 26 февраля 2026 06:53:23
- * Version: 1.0.364
+ * Last Updated: 27 февраля 2026 09:43:53
+ * Version: 1.0.365
  */
 
 namespace FastColoredTextBoxNS
